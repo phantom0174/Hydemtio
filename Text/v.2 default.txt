@@ -1,0 +1,34 @@
+"OK, Morning arrives, and everyone wakes up. Everyone(, except ..."
+
+"Villagers, it is your job to discover who has murdered poor ... and take revenge. You have until nightfall to choose someone to lynch”
+
+(1villager down or 1villager and werewolf down or 1 werewolf down)
+
+prognosticator : Villagers ,be careful.
+werewolf 2 : I guess (prognosticator) is wolf. 
+Villager 1 : But I think (werewolf 2) actually the wolf, because he is the man kind that thinks one way but acts another.
+villager 2 : Ya, I agree that,you can say that again.
+werewolf 1 : Hey why you gonna say that, maybe you are just the wolf.
+Villager 2 : How about having a vote, huh?
+Hunter : Yeah,I agree that.
+
+>>>
+
+(hunter down , a werewolf down or hunter , 2 werewolf down or 1 werewolf down)
+Werewolf n : I can’t believe that he is a werewolf.!
+Villager n : (werewolf n),you’re also the werewolf ,right?
+Werewolf n : How can you say that ! (prognosticator)is more suspicious,isn’t he?
+Villager  n+1 : Sounds that you’re just their partner.
+Villager n+2 : Okay,I think we can have a vote and lynch scapegoat.
+
+>>>
+
+(2 villager dead or 2 villager and hunter dead)
+Prognosticator : Hey,I think (werewolf 1) is the werewolf,I’m prognosticator.
+Werewolf  1:  No , I’m not . Don’t frame me.
+Werewolf  2:Ya he isn’t the wolf ,I’m prognosticator.Don’t believe in that fake prognosticator.
+Villager :Let’s vote that fake out.
+
+>>>
+
+villagers as dead gods
